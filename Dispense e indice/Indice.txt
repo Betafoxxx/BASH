@@ -1,0 +1,26 @@
+29 = metacaratteri
+38-39 = Permessi di file o directory
+45 = variabili locali o d'ambiente
+48 = comando source
+51 = comando export
+54 = history expansion (!)
+55 = comando set
+62 = quoting
+68 = wildcards * ? []
+72 = comandi bash principali
+74 = parameter expansion
+78 = valutazione aritmetica (()) e $(())
+85 = riferimenti indiretti a variabile ( {! )
+87 = exit status
+99 = stream I/O predefiniti
+102 = command substitution ( backticks o $() )
+113 = operatori condizionali
+123-124 = usare caratteri non stampabili in una stringa
+126-133 = comando read
+134 = stream I/O non predefiniti
+137 = chiusura stream I/O non predefiniti
+144 = ridirezionamenti stream I/O
+161 = << (Here documents)
+195 = processi zombie orfani e init
+
+
