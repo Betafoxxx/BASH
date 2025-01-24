@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 NRows=${ cat txt.txt | wc -l }
 
 while((${NRows} <= $#)) ; do
